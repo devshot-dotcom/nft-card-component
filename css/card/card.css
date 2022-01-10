@@ -1,6 +1,6 @@
-@import "./_header.css";
-@import "./_body.css";
-@import "./_footer.css";
+@import "/css/card/_header.css";
+@import "/css/card/_body.css";
+@import "/css/card/_footer.css";
 
 .card {
   background-color: var(--color-bg-200);
